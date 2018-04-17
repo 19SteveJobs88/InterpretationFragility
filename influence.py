@@ -4,10 +4,6 @@ from scipy.optimize import fmin_ncg
 import matplotlib.pyplot as plt
 from numpy.linalg import norm
 
-'''
-Author: Abubakar Abid, with input from Amirata Ghorbani and some code adapted from: https://github.com/kohpangwei/influence-release/
-'''
-
 class Influence(object):
     '''
     tf_session: the session that contains the trained network
