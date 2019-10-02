@@ -6,7 +6,18 @@ Code for implementation of [Interpretation of Nueral Network is Fragile.](https:
     [1] Ghorbani, Amirata, Abubakar Abid, and James Zou. 
     "Interpretation of neural networks is fragile." 
     Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.
-    
+
+## Authors
+
+* **Amirata Ghorbani** - [Website](http://web.stanford.edu/~amiratag)
+* **Abubakar Abid** - [Website](https://abidlabs.github.io/)
+* **James Zou** - [Website](https://sites.google.com/site/jamesyzou/)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
 ## The large scale results of attack methods against four famous feature-attribution methods
 ![alt text](https://github.com/amiratag/InterpretationFragility/blob/master/pictures/SaliencyMethodsComparison.png)
 
@@ -15,3 +26,4 @@ Code for implementation of [Interpretation of Nueral Network is Fragile.](https:
 
 ## Attack examples on Deep Taylor Decomposition
 ![alt text](https://github.com/amiratag/InterpretationFragility/blob/master/pictures/DTD_examples.png)
+
