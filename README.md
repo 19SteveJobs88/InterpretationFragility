@@ -2,7 +2,7 @@
 Code for implementation of [Interpretation of Nueral Network is Fragile.](https://arxiv.org/pdf/1710.10547.pdf).
 
 **Please cite the following work if you use this benchmark or the provided tools or implementations:**
-
+```
 @inproceedings{ghorbani2019interpretation,
   title={Interpretation of neural networks is fragile},
   author={Ghorbani, Amirata and Abid, Abubakar and Zou, James},
@@ -11,7 +11,7 @@ Code for implementation of [Interpretation of Nueral Network is Fragile.](https:
   pages={3681--3688},
   year={2019}
 }
-
+```
 ## Authors
 
 * **Amirata Ghorbani** - [Website](http://web.stanford.edu/~amiratag)
