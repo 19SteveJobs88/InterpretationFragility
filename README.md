@@ -3,9 +3,9 @@ Code for implementation of [Interpretation of Nueral Network is Fragile.](https:
 
 **Please cite the following work if you use this benchmark or the provided tools or implementations:**
 
-    [1] Ghorbani, Amirata, Abubakar Abid, and James Zou. 
+    Ghorbani, Amirata, Abubakar Abid, and James Zou. 
     "Interpretation of neural networks is fragile." 
-    Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019.
+    In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, pp. 3681-3688. 2019.
 
 ## Authors
 
